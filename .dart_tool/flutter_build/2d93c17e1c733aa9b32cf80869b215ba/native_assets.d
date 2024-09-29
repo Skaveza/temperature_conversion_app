@@ -1,0 +1,1 @@
+ /Users/macbook/AndroidStudioProjects/temperatureconversionapp/temperature_conversion_app/.dart_tool/flutter_build/2d93c17e1c733aa9b32cf80869b215ba/native_assets.yaml: 
